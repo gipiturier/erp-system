@@ -1,4 +1,0 @@
-name = 'name_repos'
-main = 'worker.js'
-compatibility_date = 'wrangler_tanggal'
-workers_dev = true
