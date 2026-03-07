@@ -1,0 +1,4 @@
+name = 'erp-system'
+main = 'worker.js'
+compatibility_date = '2026-03-07'
+workers_dev = true
